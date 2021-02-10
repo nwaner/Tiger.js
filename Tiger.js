@@ -1,7 +1,7 @@
 
 const Discord = require("discord.js");
-const myid = ["712407561676259418"]
-const prefix = [".1"];
+const myid = [""]
+const prefix = [""];
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
@@ -3593,13 +3593,13 @@ jano2.on("message", message => {
 });
 //////////////////////
 jano3.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  3 ");
   }
 });
 //////////////////////
 jano4.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  4 ");
   }
 });
@@ -3607,290 +3607,290 @@ jano4.on("message", message => {
 
 //////////////////////
 jano5.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  5 ");
   }
 });
 
 //////////////////////
 jano6.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  6 ");
   }
 });
 //////////////////////
 jano7.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  7 ");
   }
 });
 //////////////////////
 jano8.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  8 ");
   }
 });
 //////////////////////
 jano9.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  9");
   }
 });
 //////////////////////
 jano10.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  10");
   }
 });
 //////////////////////
 jano11.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  11");
   }
 });
 //////////////////////
 jano12.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  12");
   }
 });
 //////////////////////
 jano13.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  13");
   }
 });
 //////////////////////
 jano14.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  14 ");
   }
 });
 
 //////////////////////
 jano15.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  15 ");
   }
 });
 //////////////////////
 jano16.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  16");
   }
 });
 //////////////////////
 jano17.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  17 ");
   }
 });
 //////////////////////
 jano18.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  18 ");
   }
 });
 //////////////////////
 jano19.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  19");
   }
 });
 //////////////////////
 jano20.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  20 ");
   }
 });
 //////////////////////
 jano21.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  21");
   }
 });//////////////////////
 jano22.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  22 ");
   }
 });
 //////////////////////
 jano23.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  23");
   }
 });
 
 //////////////////////
 jano24.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  24");
   }
 });
 //////////////////////
 jano25.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  25");
   }
 });
 //////////////////////
 jano26.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  26");
   }
 });
 //////////////////////
 jano27.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  27");
   }
 });
 //////////////////////
 jano28.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  28 ");
   }
 });
 
 //////////////////////
 jano29.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  29 ");
   }
 });
 //////////////////////
 jano30.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  30");
   }
 });
 //////////////////////
 jano31.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  31");
   }
 });
 //////////////////////
 jano32.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  32 ");
   }
 });
 //////////////////////
 jano33.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  33 ");
   }
 });
 
 //////////////////////
 jano34.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  34");
   }
 });
 
 //////////////////////
 jano35.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  35 ");
   }
 });
 //////////////////////
 jano36.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  36");
   }
 });
 //////////////////////
 jano37.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  37 ");
   }
 });
 //////////////////////
 jano38.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  38");
   }
 });
 //////////////////////
 jano39.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  39 ");
   }
 });
 //////////////////////
 jano40.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  40");
   }
 });
 //////////////////////
 jano41.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  41 ");
   }
 });
 //////////////////////
 jano42.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  42 ");
   }
 });
 
 //////////////////////
 jano43.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  433 ");
   }
 });
 //////////////////////
 jano44.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  44 ");
   }
 });
 //////////////////////
 jano45.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  45");
   }
 });
 //////////////////////
 jano46.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  46 ");
   }
 });
 //////////////////////
 jano47.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  47 ");
   }
 });
 
 //////////////////////
 jano48.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  48 ");
   }
 });
 //////////////////////
 jano49.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  49 ");
   }
 });
 //////////////////////
 jano50.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  50 ");
   }
 });
 //////////////////////
 jano51.on("message", message => {
-  if (message.content === prefix + "jano") {
+  if (message.content === prefix + "tiger") {
     message.channel.send(" tokene  51 ");
   }
 });
